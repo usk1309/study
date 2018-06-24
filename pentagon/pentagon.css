@@ -1,0 +1,58 @@
+@charset "utf-8";
+ 
+body {
+	margin:0;
+	padding:0;
+	background-color: #fff;
+	font-family:Helvetica, HiraKakuProN-W3, sans-serif; 
+	font-size:25px;
+	color:#fff;
+}
+
+div {
+	float: left;
+	margin: 10px;
+	position: relative;
+}
+
+p {
+	position: absolute;
+	text-align: center;;
+}
+
+.test {
+	color: #000;
+	top: 95px;
+	left: 115px;
+}
+
+
+.item {
+	color: #808080;
+	font-size: 15px;
+}
+
+.no1 {
+	top: 0;
+	left: 115px;
+}
+
+.no2 {
+	top: 80px;
+	right: 0;
+}
+
+.no3 {
+	bottom: 15px;
+	right: 55px;
+}
+
+.no4 {
+	bottom: 15px;
+	left: 55px;
+}
+
+.no5 {
+	top: 80px;
+	left: 0;
+}
