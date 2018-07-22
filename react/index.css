@@ -1,0 +1,27 @@
+ul {
+	list-style: none;
+}
+
+.comment-form {
+	background: #f0f0f0;
+	padding: 32px;
+}
+.comment-form input[type='text'] {
+	width: 80%;
+	padding: 8px;
+}
+.comment-form button {
+	padding: 8px 18px 7px;
+	background: #2385f9;
+	border: none;
+	color: #fff;
+}
+.comment-list {
+	margin: 20px 0 0 0;
+	padding: 0;
+}
+.comment-list li {
+	border: 1px solid #eee;
+	padding: 12px;
+	margin-top: 6px;
+}
